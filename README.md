@@ -8,7 +8,7 @@ This application allows users to paste text content quickly and easily. It can b
 
 
 ##DEMO
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](./paster.png)
 
 
 
